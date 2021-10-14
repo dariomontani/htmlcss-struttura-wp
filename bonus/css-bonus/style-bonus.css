@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+/* header */
+header{  
+    margin: 10px 0;
+}
+
+h1{
+    text-align: center;
+}
+/* header */
+
+/* cat */
+.cat-section{
+    margin: 5px;
+    border: 10px solid black;
+    background-color: #00DA62;
+}
+
+.cat-pc{
+    width: 10em;
+    float: left;
+}
+/* /cat */
+
+/* boolean */
+.boolean-section{
+    margin: 5px;
+    border: 10px solid #00DA62;
+    width: 50%;
+    background-color: #001431;
+}
+
+.logo-boolean{
+    width: 10em;
+    float: right;
+}
+
+.description-boolean{
+    color: white;
+}
+/* boolean */
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: right;
+}
