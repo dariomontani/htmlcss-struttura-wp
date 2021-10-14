@@ -7,3 +7,16 @@
 html{
     width: 100%;
 }
+
+.container{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: brown;
+}
+
+header{
+    height: 100px;
+    margin: 20px 0;
+    background-color: #E579E6;
+}
