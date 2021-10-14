@@ -34,7 +34,7 @@ header{
 .blue-section{
     height: 100%;
     background-color: #0086FF;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .heading-blue-section{
@@ -58,8 +58,8 @@ header{
 
 .col-centre{
     width: 50%;
-    border-left: 10px solid #0086FF;
-    border-right: 10px solid #0086FF;
+    border-left: 15px solid #0086FF;
+    border-right: 15px solid #0086FF;
 }
 
 .clearfix::after{
