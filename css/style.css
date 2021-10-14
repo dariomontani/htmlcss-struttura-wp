@@ -16,13 +16,31 @@ html{
 }
 
 header{
-    height: 100px;
+    height: 150px;
     margin: 20px 0;
     background-color: #E579E6;
 }
 
 .yellow{
-    height: 350px;
+    height: 400px;
     margin: 20px 0;
     background-color: #E1D67A;
+}
+
+.blue-section{
+    height: 500px;
+    background-color: #0086FF;
+}
+
+.heading-blue-section{
+    height: 100px;
+    background-color: #ABCFE7;
+}
+
+.col-left,
+.col-centre,
+.col-right{
+    height: 600px;
+    background-color: #ABCFE7;
+    border: 1px solid black;
 }
